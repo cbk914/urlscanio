@@ -25,7 +25,7 @@ pytest-asyncio==0.14.0
 pytest-mock==3.2.0
 six==1.15.0
 toml==0.10.1
-typing-extensions==3.7.4.2
+typing-extensions==3.7.4.3
 wcwidth==0.2.5
 wrapt==1.12.1
 yarl==1.5.1
