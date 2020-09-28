@@ -4,7 +4,7 @@ aioresponses==0.6.4
 astroid==2.4.2
 async-timeout==3.0.1
 atomicwrites==1.4.0
-attrs==19.3.0
+attrs==20.2.0
 chardet==3.0.4
 colorama==0.4.3
 idna==2.10
